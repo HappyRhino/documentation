@@ -1,4 +1,4 @@
-documentation
+HappyRhino
 =============
 
-Documentation for the framework
+
