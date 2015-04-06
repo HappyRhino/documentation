@@ -6,6 +6,6 @@
 * [View](./modules/view.md)
     * [Application](./modules/app.md)
     * [List](./modules/list.md)
-    * [Grid](./modules/grid.md)
+    * [Grid](./modules/gridview.md)
 * [Drag and drop](./modules/dnd.md)
 * [Queue](./modules/queue.md)
