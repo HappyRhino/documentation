@@ -1,2 +1,1 @@
-{% import "git+https://github.com/HappyRhino/hr.class.git/README.md" %}
-
+{% include "git+https://github.com/HappyRhino/hr.class.git/README.md" %}
