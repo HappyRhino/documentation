@@ -9,3 +9,4 @@
     * [Grid](./modules/gridview.md)
 * [Drag and drop](./modules/dnd.md)
 * [Queue](./modules/queue.md)
+* [Logger](./modules/logger.md)
